@@ -17,4 +17,4 @@ Evidence is provided here of the following objectives:
 
 
 5. Define and demonstrate conflict management and resolution strategies.
-  - It is important to understand what is being asked of a person and what issues they have when there is a conflict, there are five stratagies that can be used to end a conflict. However, there are two prime resolutions that benefit both parties the most. These strategies are collaboration and compromisation. [Conflict Management Rolepay](https://github.com/FlashBangAU/ePortfolio/blob/main/Conflict%20Rolepay%20(1).docx)
+  - It is important to understand what is being asked of a person and what issues they have when there is a conflict, there are five stratagies that can be used to end a conflict. However, there are two prime resolutions that benefit both parties. These strategies are collaboration and compromisation. [Conflict Management Rolepay](https://github.com/FlashBangAU/ePortfolio/blob/main/Conflict%20Rolepay%20(1).docx)
